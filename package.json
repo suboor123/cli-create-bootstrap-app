@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A CLI to bootstrap my new projects",
   "main": "src/index.js",
-  "bin": "bin/create-project",
+  "bin": {
+    "create-bootstrap-app": "bin/create-project"
+  },
   "publishConfig": {
     "access": "public"
   },

@@ -1,0 +1,1 @@
+console.log('Created by using create-bootstrap-app')
