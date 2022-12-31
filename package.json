@@ -1,7 +1,7 @@
 {
-  "name": "@dkundel/create-project",
+  "name": "@suboorkhan/create-bootstrap-app",
   "version": "1.0.0",
-  "description": "A CLI to bootstrap my new projects",
+  "description": "CLI to create boilerplate of bootstrap 4 webapp",
   "main": "src/index.js",
   "bin": {
     "create-bootstrap-app": "bin/create-project"
@@ -14,9 +14,12 @@
   },
   "keywords": [
     "cli",
-    "create-project"
+    "bootstrap",
+    "create-bootstrap-app"
   ],
-  "author": "Dominik Kundel <hi@dominik.dev> (https://dkundel.com)",
+  "author": "suboor123",
+  "homepage": "https://github.com/suboor123/cli-create-bootstrap-app",
+  "repository": "suboor123/cli-create-bootstrap-app",
   "license": "MIT",
   "dependencies": {
     "arg": "^4.1.0",
